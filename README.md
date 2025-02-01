@@ -1,0 +1,3 @@
+# JavaScript Null Value Handling
+
+This repository demonstrates a common issue in JavaScript: handling null values in functions to prevent unexpected behavior or errors.  The `bug.js` file shows a basic function that correctly addresses null input, providing a robust and reliable solution.  The solution is simple and self-explanatory.  This example emphasizes the importance of considering edge cases like null values when writing JavaScript code. 
